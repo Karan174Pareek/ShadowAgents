@@ -15,7 +15,7 @@ header {
   justify-content: space-between;
   align-items: center;
   height: 95px;
-  width: 420px;
+  width: 100%;
     
 }
 
@@ -589,8 +589,8 @@ svg {
 .portfolio .blue-box {
   margin-top: 20px;
   height: 711px;
-  width: 412px;
-  position: relative;
+  width: 100%;
+  margin-left: 13px;
 }
 
 .faqs {
@@ -854,7 +854,7 @@ svg {
   }
 
 .footer-content {
-  width: 458px;
+  width: 478px;
   height: 275px;
   background: linear-gradient(94.79deg, #6DADFF -20.55%, #0069FA 59.58%);
   border-radius: 10px;
@@ -1023,6 +1023,7 @@ svg {
   line-height: 1.6;
   color: #1b1b1b;
   margin: 30px auto;
+  margin-left: 40px;
 }
 
 .time .arrow {
@@ -1034,8 +1035,8 @@ svg {
 }
 
 .booking-section {
-  height: 956px;
-  width: 410px;
+  height: 814px;
+  width: 100%;
   padding: 20px;
   background: #fff;
   color: #000;
